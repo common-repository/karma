@@ -1,0 +1,10 @@
+@CHARSET "UTF-8";
+
+.karma-admin-line {
+	clear:both;
+}
+
+.karma-admin-label {
+	min-width: 200px;
+	width: 25%;
+}
